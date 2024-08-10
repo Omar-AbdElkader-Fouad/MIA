@@ -1,0 +1,37 @@
+# Basic Linux Commands
+
+## ls
+* **Syntax:** `ls`
+* **Description:** Lists the contents of a directory.
+
+## cd
+* **Syntax:** `cd [directory]`
+* **Description:** Changes the current directory.
+
+## pwd
+* **Syntax:** `pwd`
+* **Description:** Prints the full path of the current working directory.
+
+## mkdir
+* **Syntax:** `mkdir [directory_name]`
+* **Description:** Creates a new directory with the specified name.
+
+## rm
+* **Syntax:** `rm [file_name]` or `rm -r [directory_name]`
+* **Description:** Removes a file or a directory. Use `-r` to remove directories recursively.
+
+## cp
+* **Syntax:** `cp [source] [destination]`
+* **Description:** Copies files or directories from the source to the destination.
+
+## mv
+* **Syntax:** `mv [source] [destination]`
+* **Description:** Moves or renames files or directories from the source to the destination.
+
+## cat
+* **Syntax:** `cat [file_name]`
+* **Description:** Concatenates and displays the content of a file.
+
+## nano
+* **Syntax:** `nano [file_name]`
+* **Description:** Opens the Nano text editor to create or edit a file.
